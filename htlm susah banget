@@ -1,0 +1,22 @@
+   body{
+backgruound-color:#fffe0; /"warna kunung cerah"/
+fount-family:arial, sans-serif; /* Jenis huruf yang bersih dan mudah di baca
+color: #191970; /*warna teks utama (biru Gelap)
+}
+
+.kartu profil {
+     width:300px;
+margin: 50px auto; /50px jarak atas /bawah, auto menengahkan kiri/kanan*/
+padding: 20px
+background-color: white
+border-radius: 15px; /* membuat  sudut menjadi sudut menjadi melengking */
+box-shadow:04px r gba(0,0,0,1)
+     tex-align: canter; /*menegahkan sesuatu teks da dalam kartu */
+}
+
+
+.kartu- profil img {
+width: 150px;
+  border-radius :50%; /* trik untuk membuat gamabar persegi menjadi
+}
+
